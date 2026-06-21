@@ -48,7 +48,7 @@
 
 ## 🎵 AllMusic Lyrics
 
-<a href="https://modrinth.com/mod/allmusic-lyrics">
+<a href="https://modrinth.com/mod/allmusic_lyrics">
 
 <img src="https://img.shields.io/badge/Modrinth-AllMusic_Lyrics-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white"/>
 
