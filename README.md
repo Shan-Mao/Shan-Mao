@@ -91,7 +91,7 @@ Minecraft HUD Lyrics Mod 🎶
 
 «Minecraft 不只是游戏。»
 
-«它还是我的大型启动器测试平台。»
+«它还是游戏。»
 
 <br>«如果代码跑不起来，»
 
