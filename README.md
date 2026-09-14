@@ -24,11 +24,10 @@
 <img src="https://img.shields.io/badge/QQ-1352392152-12B7F5?style=for-the-badge&logo=tencentqq"/>
 </a>
 
-<br><br>
+<br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shan-Mao&show_icons=true&theme=transparent&hide_border=true"/>
+<br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shan-Mao&layout=compact&theme=transparent&hide_border=true"/>
 
 <br>
 
