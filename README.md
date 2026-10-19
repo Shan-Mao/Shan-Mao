@@ -30,6 +30,8 @@
 
 [![GitHub Roast 评分卡](https://ghfind.com/api/card/mini/shan-mao?lang=zh)](https://ghfind.com/u/shan-mao?ref=badge)
 
+[![GitHub Roast 评分卡](https://ghfind.com/api/card/mini/shan-mao?lang=zh)](https://ghfind.com/u/shan-mao?ref=badge)
+
 <br>
 
 <img src="https://streak-stats.demolab.com?user=Shan-Mao&theme=transparent&hide_border=true"/>
