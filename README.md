@@ -28,9 +28,12 @@
 
 <br>
 
-[![GitHub Roast 评分卡](https://ghfind.com/api/card/mini/shan-mao?lang=zh)](https://ghfind.com/u/shan-mao?ref=badge)
-
-[![GitHub Roast 评分卡](https://ghfind.com/api/card/mini/shan-mao?lang=zh)](https://ghfind.com/u/shan-mao?ref=badge)
+<a href="https://ghfind.com/u/shan-mao?ref=badge">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/shan-mao?theme=dark&lang=zh" />
+    <img src="https://ghfind.com/api/card/mini/shan-mao?theme=light&lang=zh" alt="GitHub Roast 评分卡" width="440" />
+  </picture>
+</a>
 
 <br>
 
