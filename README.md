@@ -13,3 +13,16 @@
     alt="Pixel cat GitHub contribution card"
     />
 </div>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Shan-Mao/Shan-Mao/main/dist/pet.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Shan-Mao/Shan-Mao/main/dist/pet-light.svg">
+  <img
+    alt="YourTomo pixel cat"
+    src="https://raw.githubusercontent.com/Shan-Mao/Shan-Mao/main/dist/pet.svg"
+    width="100%">
+</picture>
