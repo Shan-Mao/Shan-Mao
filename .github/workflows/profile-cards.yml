@@ -1,0 +1,28 @@
+name: Update Profile Cards
+
+on:
+schedule:
+- cron: "17 2 * * *"
+workflow_dispatch:
+
+permissions:
+contents: write
+
+jobs:
+generate:
+runs-on: ubuntu-latest
+
+steps:
+  - name: Checkout repository
+    uses: actions/checkout@v7
+
+  - name: Generate SVG cards
+    uses: seijikohara/profile-cards-action@v1
+    with:
+      github-token: ${{ secrets.GITHUB_TOKEN }}
+      username: Shan-Mao
+      cards: overview,languages,contributions,rhythm,repositories,momentum
+      output-dir: assets/profile-cards
+      themes: dark
+      commit: true
+      commit-message: "chore: update profile dashboard [skip ci]"
