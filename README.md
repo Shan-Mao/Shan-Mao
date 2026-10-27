@@ -7,12 +7,42 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Meow~;Minecraft+Player;Wallpaper+Engine+Lover;AI+Please+Help+Me..." />
 
 <div align="center">
-  <img  
-    src="https://terminal-identity-opal.vercel.app/api?name=Shan-Mao&username=Shan-Mao&role=Minecraft%20Player&tagline=AI%20%C2%B7%20R%20%C2%B7%20Coding%20%C2%B7%20Minecraft&status=Meow%7E%20building%20things%20one%20commit%20at%20a%20time&theme=obsidian/velvet&pattern=pulse&width=980&height=auto&motion=boot&showContribs=on&contribTheme=cat_jump&contribRange=16w&contribMode=focus&showLangs=off&hideCommand=true&v=1"  
-    width="100%"  
-    alt="Pixel cat GitHub contribution card"
-    />
+  <h1>SHAN-MAO</h1>
+  <p>AI · R · Coding · Minecraft</p>
 </div>
+
+<table>
+  <tr>
+    <!-- 左栏：GIF -->
+    <td width="40%" valign="top" align="center">
+      <img
+        src=""
+        width="100%"
+        alt="Glitch Art"
+      />
+    </td>
+
+    <!-- 右栏：仪表盘 -->
+    <td width="60%" valign="top">
+
+      <h3> SYSTEM DASHBOARD</h3>
+
+      <img
+        src="你的统计图地址"
+        width="100%"
+        alt="GitHub Stats"
+      />
+
+      <p>AI · R · Python · TypeScript</p>
+
+      <p>
+        <code>VISUAL SKILL STUDIO</code><br/>
+        <code>SHAN-MAO BLOG</code>
+      </p>
+
+    </td>
+  </tr>
+</table>
 
 <picture>
   <source
