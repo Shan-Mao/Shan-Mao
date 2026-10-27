@@ -1,10 +1,28 @@
-name: Profile Cards Test
+name: Update Profile Cards
 
-on: workflow_dispatch
+"on":
+  schedule:
+    - cron: "17 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
-  test:
+  generate:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Check workflow
-        run: echo "Workflow syntax is valid"
+      - name: Checkout repository
+        uses: actions/checkout@v7
+
+      - name: Generate SVG cards
+        uses: seijikohara/profile-cards-action@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: Shan-Mao
+          cards: overview,languages,contributions,rhythm,repositories,momentum
+          output-dir: assets/profile-cards
+          themes: dark
+          commit: true
+          commit-message: "chore: update profile dashboard [skip ci]"
