@@ -29,12 +29,12 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Shan-Mao/Shan-Mao/main/dist/pet.svg">
+    srcset="https://raw.githubusercontent.com/Shan-Mao/Shan-Mao/main/dist/isocat.svg">
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Shan-Mao/Shan-Mao/main/dist/pet-light.svg">
+    srcset="https://raw.githubusercontent.com/Shan-Mao/Shan-Mao/main/dist/isocat-light.svg">
   <img
     alt="YourTomo pixel cat"
-    src="https://raw.githubusercontent.com/Shan-Mao/Shan-Mao/main/dist/pet.svg"
+    src="https://raw.githubusercontent.com/Shan-Mao/Shan-Mao/main/dist/isocat.svg"
     width="100%">
 </picture>
