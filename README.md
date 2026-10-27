@@ -1,15 +1,24 @@
-<div>
-  <a href="https://github.com/Shan-Mao">
-    <img src="https://raw.githubusercontent.com/Shan-Mao/Shan-Mao/main/assets/shanmao.gif" width="38%" align="left" alt="Shanmao" />
-  </a>
-
-  <div align="center">
-    <p><strong><big>🐾 Shan-Mao</big></strong></p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Meow~;Minecraft+Player;Wallpaper+Engine+Lover;AI+Please+Help+Me..." alt="Typing SVG" width="60%" />
-  </div>
-</div>
-
-<div style="clear: both;"></div>
+<table width="100%" align="center" border="0" cellpadding="0" cellspacing="0" style="width: 100%; margin: 0; padding: 0;">
+  <tr>
+    <td width="35%" align="center" valign="middle">
+      <a href="https://github.com/Shan-Mao">
+        <img
+          src="https://raw.githubusercontent.com/Shan-Mao/Shan-Mao/main/assets/shanmao.gif"
+          width="100%"
+          alt="Shanmao"
+        />
+      </a>
+    </td>
+    <td width="65%" align="center" valign="middle">
+      <h1>🐾 Shan-Mao</h1>
+      <img
+        src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=450&lines=Meow~;Minecraft+Player;Wallpaper+Engine+Lover;AI+Please+Help+Me..."
+        width="100%"
+        alt="Typing SVG"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -37,5 +46,6 @@
   <img
     alt="YourTomo pixel cat"
     src="https://raw.githubusercontent.com/Shan-Mao/Shan-Mao/main/dist/isocat.svg"
-    width="100%">
+    width="100%"
+  />
 </picture>
