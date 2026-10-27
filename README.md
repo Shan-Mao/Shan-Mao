@@ -16,7 +16,7 @@
     <!-- 左栏：GIF -->
     <td width="40%" valign="top" align="center">
       <img
-        src=""
+        src="https://raw.githubusercontent.com/Shan-Mao/Shan-Mao/main/dist/pet.sv"
         width="100%"
         alt="Glitch Art"
       />
