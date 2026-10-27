@@ -2,11 +2,7 @@
 
 # 🐾 Shan-Mao
 
-### 一只喜欢 Minecraft 的山猫
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Meow~;Minecraft+Player;Wallpaper+Engine+Lover;AI+Please+Help+Me..." />
-
----
 
 <table>
   <tr>
