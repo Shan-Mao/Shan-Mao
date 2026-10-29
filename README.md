@@ -16,6 +16,15 @@
         width="100%"
         alt="Typing SVG"
       />
+      <div align="center">
+        <a href="https://github.com/AntonBabchenko/Lucerna">
+        <img src="https://img.shields.io/github/last-commit/AntonBabchenko/Lucerna?label=Lucerna%20Progress&style=flat-square" alt="Lucerna 项目进度" />
+        </a>
+      </div>
+      <div align="center">
+        <a href="https://hosted.weblate.org/engage/lucerna/"><img src="https://hosted.weblate.org/widget/lucerna/ui/zh_Hans/matrix-green.svg" alt="翻译状态"></a>
+        </a>
+      </div>
     </td>
   </tr>
 </table>
